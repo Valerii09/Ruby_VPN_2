@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">Ruby VPN</string>
+    <string name="connection_close_confirm">Вы хотите отменить текущее VPN-подключение?</string>
+    <string name="help">Вопросы и ответы</string>
+    <string name="no">Нет</string>
+    <string name="yes">Да</string>
+
+    <string name="format_ip_address">%1$s:%2$d</string>
+    <string name="format_ping">Ping: %s ms</string>
+    <string name="format_speed">%s</string>
+
+    <!--    Drawer Items Strings-->
+    <string name="drawer_premium_text">Премиум</string>
+    <string name="drawer_share_text">Расскажи своим друзьям</string>
+    <string name="drawer_rate_text">ОЦЕНИТЕ НАС</string>
+    <string name="drawer_about_text">О нас</string>
+    <string name="drawer_policy_text">КОНФИДЕНЦИАЛЬНОСТЬ</string>
+    <string name="drawer_faq_text">Часто задаваемые вопросы</string>
+
+
+    <string name="app_version_text" translatable="false">Version 1.0.0</string>
+    <string name="about_app_text" translatable="false">Вы используете Ruby VPN build v1.0.0. Наслаждайтесь неограниченной пропускной способностью, стабильным соединением и множеством серверов на выбор. Без ограничений, без ограничений</string>
+
+    <string name="app_name_premium">Руби VPN Премиум</string>
+    <string name="privacy_policy_title" translatable="false">Конфиденциальности</string>
+    <string name="unlimited_text">Безлимитный</string>
+    <string name="secure_text">Безопасность</string>
+    <string name="support_text">Поддержка</string>
+    <string name="no_ads_text">Без рекламы</string>
+    <string name="change_text">Изменить</string>
+    <string name="disconnect_text">Отключить</string>
+    <string name="download_text">СКАЧАТЬ</string>
+    <string name="dummy_ip_text">222.432.00.32</string>
+    <string name="dummy_time_text">00:03:32</string>
+    <string name="dummy_your_ip_text">Ваш IP : </string>
+    <string name="go_premium_text">Перейти на Премиум</string>
+    <string name="not_connected_text">Не подключен</string>
+    <string name="start_text">Начать</string>
+    <string name="upload_text">ЗАГРУЗИТЬ</string>
+    <string name="subscription_text">ПОДПИСКА</string>
+    <string name="status_text">Статус : </string>
+    <string name="select_server_text">Выбрать сервер</string>
+    <string name="rate_app_text">ОЦЕНИ ЭТО ПРИЛОЖЕНИЕ</string>
+    <string name="feedback_text">Feedback</string>
+    <string name="content_text">Обратная связь</string>
+    <string name="zero_text">0.0</string>
+    <string name="speed_text">Скорость</string>
+    <string name="tcp_text">TCP</string>
+    <string name="ping_text">Пинг</string>
+    <string name="submit_text">Представлять на рассмотрение</string>
+    <string name="you_are_connected_text">Вы подключены</string>
+    <string name="connection_status_text">Статус подключения</string>
+    <string name="zero_duration_text">Продолжительность: 00:00:00</string>
+    <string name="packet_received_text">Пакет получен:</string>
+    <string name="no_thanks_text">Нет, спасибо</string>
+    <string name="restore_purchase_text">Восстановить покупку</string>
+    <string name="byte_in_text">Байт : </string>
+    <string name="byte_out_text">Байт: </string>
+    <string name="country_name_text">Название страны</string>
+    <string name="choose_location_text">Выберите свое местоположение</string>
+    <string name="default_server_text">Значок сервера по умолчанию</string>
+    <string name="feedback_hint_text">Предложите нам, что пошло не так, и мы поработаем над этим.</string>
+
+    <string name="country_name">Сервер не выбран</string>
+    <string name="IP_address">IP-адрес сервера</string>
+
+    <string name="one_month_text">1 месяц</string>
+    <string name="three_months_text">3 месяца</string>
+    <string name="one_year_text">1 год</string>
+
+    <!--rating dialog-->
+    <string name="feedback_email_subject" translatable="false">Ruby VPN</string>
+
+    <string name="rating_promote">Мы прилагаем все усилия для лучшего взаимодействия с пользователем. \nМы будем очень признательны, если вы оцените нас.</string>
+    <string name="rating_title_1">Нет!</string>
+    <string name="rating_title_2">Хорошо!</string>
+    <string name="rating_text_1">Пожалуйста, оставьте нам отзыв.</string>
+    <string name="rating_text_4">Спасибо за ваш отзыв.</string>
+    <string name="rating_text_5">Лучшее, что мы можем получить</string>
+    <!--rating dialog-->
+
+    <string-array name="faq_questions">
+        <item>Зачем мне VPN?</item>
+        <item>Это безопасно?</item>
+        <item>Как использовать VPN?</item>
+        <item>Как отключить Ruby VPN?</item>
+        <item>Не удается подключиться, нестабильность или низкая скорость.</item>
+        <item>Как изменить местоположение сервера?</item>
+        <item>Не можете найти нужный сервер?</item>
+        <item>Почему я не могу пользоваться Интернетом после установления соединения?</item>
+        <item>Как отключить оптимизацию батареи для Ruby VPN?</item>
+        <item>Как отменить подписку в Google Play?</item>
+        <item>Могу ли я получить возврат?</item>
+    </string-array>
+
+    <string-array name="faq_answers">
+
+        <item>VPN — это виртуальная частная сеть. Это позволяет вам сохранять конфиденциальность, оставаться в безопасности и получать доступ к любому заблокированному онлайн-контенту, который вы хотите, независимо от того, откуда вы.</item>
+        <item>Мы используем SSL для шифрования ваших интернет-данных. Ваши данные не поддаются расшифровке для посторонних глаз в пути. Кроме того, мы не собираем, не регистрируем, не храним и не передаем какие-либо журналы данных, принадлежащие пользователям, и, пожалуйста, чувствуйте себя в безопасности при использовании нашего продукта.</item>
+        <item>Нажмите кнопку \"Пуск\" в центре домашней страницы. Затем, пожалуйста, «Доверяйте этому приложению», если ваше устройство запрашивает это разрешение.</item>
+        <item>Нажмите ту же кнопку подключения на главной странице, чтобы отключиться от VPN-сервера.</item>
+        <item>На проблему с подключением влияет множество факторов, пожалуйста, обновите до последней версии, обновите список серверов и несколько раз подключитесь к основному серверу. Если это по-прежнему не работает для вас, свяжитесь с нами по адресу Rubyapps.studio@gmail.com и сообщите нам свою страну и имя сетевого провайдера.</item>
+        <item>Выберите нужное местоположение в списке серверов, затем VPN подключится к выбранному вами местоположению.</item>
+        <item>Пожалуйста, свяжитесь с нами и предоставьте нам подробный адрес веб-сайта, который вы хотите разблокировать, по адресу Rubyapps.studio@gmail.com. Мы соберем ваши отзывы и улучшим наш продукт.</item>
+        <item>Прежде всего проверьте подключение к сети. Затем убедитесь, что вы отключили оптимизацию батареи для Ruby VPN в настройках батареи Android.</item>
+        <item>На большинстве устройств Android откройте «Настройки» > «Аккумулятор» > «Оптимизация аккумулятора» > выберите все приложения в раскрывающемся меню. Найдите Ruby VPN и установите для него «Не оптимизировать». На устройствах Huawei откройте «Настройки»> «Аккумулятор»> «Запуск», найдите Ruby VPN в списке приложений, отключите «Управление вручную», включите «Автоматический обед» и «Запустить в фон". Или вы можете найти настройку батареи в «Защищенных приложениях». На устройствах Samsung откройте «Настройки»> «Аккумулятор»> «Энергосбережение приложений»> «Подробности», найдите Ruby VPN в списке приложений и отключите его. На других устройствах вы можете найти его в «Настройки»> «Аккумулятор». > как "Фоновая активность" или "Защищенные приложения"</item>
+        <item>Подписки в Google Play продлеваются автоматически, если вы не отмените подписку. Если вы хотите отказаться от подписки, откройте Google Play Store, нажмите «Меню» — «Подписки» — коснитесь подписки, которую хотите отменить, — коснитесь «Отменить подписку». Подробности здесь: https://support.google.com/googleplay/answer/2476088</item>.
+        <item>Если вы не отмените подписку до окончания пробного периода, средства не будут возвращены. Подробности здесь: https://support.google.com/googleplay/answer/2476088</item>.
+    </string-array>
+
+    <string name="disconnect_first">Чтобы сменить сервер, сначала отключите VPN.</string>
+    <string name="share_app_text" translatable="false">Проверьте этот удивительный бесплатный VPN. Вы можете разблокировать любой веб-сайт и наслаждаться множеством бесплатных серверов. Загрузите сейчас Ruby VPN</string>
+    <string name="share_msg" translatable="false">Проверьте этот бесплатный VPN. Вы можете разблокировать любой веб-сайт и наслаждаться множеством бесплатных серверов. Загрузите сейчас Ruby VPN</string>
+
+    <string name="info_dialog_title">Информация</string>
+    <string name="info_dialog_details">Все эти серверы предоставляются проектом VPN Gate и предлагают свои услуги бесплатно. Вы можете узнать больше о проекте VPN-шлюза на <a href="https://www.vpngate.net/en/">https://www.vpngate.net/en/</a></string>
+
+
+    <!--Fields needed to be replaced by user-->
+    <!--admob ids-->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!--facebook ids-->
+    <string name="facebook_interstitial_id">Ваш идентификатор межстраничной рекламы Facebook</string>
+    <string name="facebook_native_banner_id">Идентификатор вашего нативного баннера Facebook</string>
+
+    <string name="developers_email" translatable="false">your_developer_email</string>
+    <string name="privacy_policy_link" translatable="false">https://www.google.com</string>
+
+    <!--Fields needed to be replaced by user-->
+
+</resources>
