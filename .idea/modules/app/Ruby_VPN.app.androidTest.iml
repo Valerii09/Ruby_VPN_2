@@ -141,7 +141,6 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/b649d315196c334e4efc3a97a86a776b/transformed/jetified-javawriter-2.1.1.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/932f9dce1b9ba21331fc66a7296ec40d/transformed/jetified-javax.inject-1.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/8ba8bfb3320476c5ae0adfbe7d6fe2f4/transformed/constraintlayout-2.1.3-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../vpnLib/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/282109233b48329c336ba8ead21529d9/transformed/jetified-retrofit-2.9.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/77635d8b7a0c3390ef9967ea062dc895/transformed/jetified-SmoothBottomBar-1.7.9-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/d10f5cc97ac74dba9051537a9bc1a68c/transformed/jetified-okhttp-4.9.3.jar</arg>

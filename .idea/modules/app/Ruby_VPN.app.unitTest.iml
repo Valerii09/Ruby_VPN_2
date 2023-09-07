@@ -149,7 +149,6 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/3747195c31c74c65417e8680d8421607/transformed/jetified-error_prone_annotations-2.9.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/9d29fc5e05534525728c1be1e8e26631/transformed/jetified-firebase-annotations-16.0.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/833f3a98baa349e675cb3ace75424517/transformed/jetified-billing-3.0.3-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../vpnLib/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-34/android.jar</arg>
                 <arg>$USER_HOME$/AppData/Local/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar</arg>
               </args>
