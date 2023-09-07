@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.android.billingclient:billing:3.0.3@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d1574544f690fd802c4e142619309a6c/transformed/jetified-billing-3.0.3/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d1574544f690fd802c4e142619309a6c/transformed/jetified-billing-3.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d1574544f690fd802c4e142619309a6c/transformed/jetified-billing-3.0.3/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.billingclient/billing/3.0.3/a0736fafbb7bcaf0d82a1708d5e91d3a5821b768/billing-3.0.3-javadoc.jar!/" />

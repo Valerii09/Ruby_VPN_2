@@ -5,14 +5,14 @@ apply plugin: 'com.google.gms.google-services'
 apply plugin: 'com.google.firebase.crashlytics'
 
 android {
-    compileSdkVersion 31
+    compileSdkVersion 34
     defaultConfig {
         minSdkVersion 21
-        targetSdkVersion 31
+        targetSdkVersion 34
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-        applicationId 'com.liberty.apps.studio.libertyvpn'
+        applicationId 'com.ruby.apps.studio.rubyvpn'
         multiDexEnabled true
         buildConfigField("String", "VPN_GATE_API", "\"http://www.vpngate.net/api/iphone/\"")
     }
@@ -30,13 +30,13 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
-    namespace 'com.liberty.apps.studio.libertyvpn'
+    namespace 'com.ruby.apps.studio.rubyvpn'
 }
 
 dependencies {
 
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation 'androidx.appcompat:appcompat:1.4.1'
+    implementation 'androidx.appcompat:appcompat:1.6.1'
     implementation 'androidx.core:core:1.7.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.3'
     implementation 'androidx.localbroadcastmanager:localbroadcastmanager:1.1.0'
