@@ -33,7 +33,7 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/c879206ad25c2cc1b64baea38cd2f6ed/transformed/jetified-kotlinx-coroutines-core-jvm-1.6.1.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/8fef5605725ffa62e0454122ba70f7b6/transformed/material-1.5.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/8cdfcfaab6d12b41ca58899ba13b5634/transformed/jetified-ratingdialog-1.0.8-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/8a3d1d135243763f07a2bf4a53dd847b/transformed/jetified-Android-CustomRatingBar--SNAPSHOT-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/0a0cdb656dd2c37832e95eb0e99fc94d/transformed/jetified-Android-CustomRatingBar--SNAPSHOT-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/992dcb8640e2c4e81b99fd3ef417f5c6/transformed/jetified-OneSignal-4.7.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/e898523cf26e5192f2ae233c0a11fba4/transformed/appcompat-1.6.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/39de81d8ec1f6b70c3a294005db62a13/transformed/legacy-support-v4-1.0.0-api.jar</arg>
@@ -146,6 +146,7 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/3747195c31c74c65417e8680d8421607/transformed/jetified-error_prone_annotations-2.9.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/9d29fc5e05534525728c1be1e8e26631/transformed/jetified-firebase-annotations-16.0.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/833f3a98baa349e675cb3ace75424517/transformed/jetified-billing-3.0.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../vpnLib/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-34/android.jar</arg>
                 <arg>$USER_HOME$/AppData/Local/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar</arg>
               </args>
