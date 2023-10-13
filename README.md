@@ -8,3 +8,9 @@
 ![Second screen](https://github.com/Valerii09/Ruby_VPN_2/blob/master/Screenshots/Screenshot_6.png)
 ![Second screen](https://github.com/Valerii09/Ruby_VPN_2/blob/master/Screenshots/Screenshot_7.png)
 ![Second screen](https://github.com/Valerii09/Ruby_VPN_2/blob/master/Screenshots/Screenshot_8.png)
+
+# Technology stack:
++ languages ​​Java, Kotlin
++ MVC design model
++ API: OpenVPN
++ Libraries: Google Play Billing Library, androidx
